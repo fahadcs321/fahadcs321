@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Muhammad%20Fahad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%E2%80%A2%20Cloud%20%26%20Distributed%20Systems%20Engineer&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Muhammad%20Fahad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%E2%80%A2%20Cloud%20and%20Distributed%20Systems%20Engineer&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
 
 <a href="https://github.com/fahadcs321">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=60&lines=Generative+AI+%26+Deep+Learning+Engineer;Natural+Language+Processing+Engineer;Cloud+%26+Distributed+Systems+Engineer;Big+Data+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=60&lines=Generative+AI+and+Deep+Learning+Engineer;Natural+Language+Processing+Engineer;Cloud+and+Distributed+Systems+Engineer;Big+Data+and+Computer+Vision" alt="Typing SVG" />
 </a>
 
 <br/>
