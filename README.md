@@ -1,23 +1,22 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Fahad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full%20Stack&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Muhammad%20Fahad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%E2%80%A2%20Cloud%20%26%20Distributed%20Systems%20Engineer&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
 
 <a href="https://github.com/fahadcs321">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=620&height=60&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Distributed+Systems+%26+Big+Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=60&lines=Generative+AI+%26+Deep+Learning+Engineer;Natural+Language+Processing+Engineer;Cloud+%26+Distributed+Systems+Engineer;Big+Data+%26+Computer+Vision" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.S.%20Computer%20Science-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/%5BYour%20University%5D-4F46E5?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Faisalabad,%20Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/FAST%20(NUCES)-4F46E5?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27"/>
 
 <br/><br/>
 
-<a href="https://[your-portfolio-url]"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://linkedin.com/in/[your-handle]"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
-<a href="mailto:[your.email@gmail.com]"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-89a1b0358/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
+<a href="mailto:fahad.muhammad9793@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://github.com/fahadcs321"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
 
 <br/><br/>
@@ -33,14 +32,16 @@
 <!-- ===================== ABOUT ===================== -->
 <div align="center"><h2>👨‍💻 About Me</h2></div>
 
-I'm **Fahad**, a software engineer who builds reliable, production-grade systems where rigorous engineering meets applied machine learning. My work sits at the intersection of **software engineering**, **AI/ML**, and **full-stack product development**, with a strong bias toward systems that are scalable, fault-tolerant, and measurable in impact.
+I'm **Muhammad Fahad**, a research-driven Computer Science graduate from **FAST (NUCES)** who designs, implements, and delivers complex AI and distributed systems end-to-end. My work spans **Generative AI, Deep Learning, and NLP** on one side, and **Cloud Engineering, Distributed Storage, and Big Data** on the other — combining strong theoretical foundations with practical engineering discipline.
 
-- 🧠 **AI / ML Engineering** — generative vision models (CycleGAN), vision-language model fine-tuning with **QLoRA**, and document understanding pipelines.
-- 🏗️ **Distributed Systems & Big Data** — fault-tolerant storage with **RAID 6**, and large-scale data pipelines on **Hadoop, Spark, and Docker**.
-- 💻 **Full Stack Development** — end-to-end delivery from data layer to interface, with an emphasis on clean architecture and maintainability.
-- 🎯 **Product Engineering Mindset** — I treat code as a means to an outcome: I optimize for reliability, performance, and the people who use what I ship.
+- 🧠 **AI / ML Engineering** — generative models (GANs, Diffusion), vision-language fine-tuning with **QLoRA**, and self-supervised learning.
+- 🗣️ **Natural Language Processing** — Transformers from scratch, RAG pipelines, and neural machine translation.
+- ☁️ **Cloud & Distributed Systems** — fault-tolerant **Ceph** storage with RAID 6, observability with **Sensu + Prometheus + Grafana**, and custom **Linux kernel** optimization for **KVM**.
+- 🗄️ **Big Data** — distributed processing with **Hadoop & Apache Spark** and MapReduce-based large-scale analytics.
+- 🔬 **Research Depth** — Bayesian Deep Learning for uncertainty quantification in cardiac signal processing (ECG → EGM).
+- 🌍 **Internationally Trained** — game development at **Epitech, Paris, France**.
 
-> **Open To:** Software Engineering • AI/ML Engineering • Full Stack • Research Collaborations • Internships & Full-time Roles
+> **Open To:** AI/ML Engineering • Cloud / Distributed Systems • Generative AI Research • Data Engineering • Internships & Full-time Roles
 
 ---
 
@@ -51,39 +52,51 @@ I'm **Fahad**, a software engineer who builds reliable, production-grade systems
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash,r&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,mysql,mongodb,redis&theme=dark"/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,grafana&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,bash&theme=dark"/>
 
 **AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/PEFT%2FQLoRA-7C3AED?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1b27"/>
+
+**Cloud, DevOps & Systems**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,grafana,prometheus,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/KVM%2FQEMU-FF6600?style=flat-square&logo=qemu&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Sensu-A0DC2C?style=flat-square&logo=sensu&logoColor=black&labelColor=1a1b27"/>
+
+**Frontend & Databases**
+
+<img src="https://skillicons.dev/icons?i=html,css,dotnet,mysql,sqlite&theme=dark"/>
+<img src="https://img.shields.io/badge/Oracle%2011g-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27"/>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,unreal&theme=dark"/>
 
 </div>
 
 ---
 
 <!-- ===================== AI / ML EXPERTISE ===================== -->
-<div align="center"><h2>🤖 AI / ML Expertise</h2></div>
+<div align="center"><h2>🤖 AI / ML & Systems Expertise</h2></div>
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Generative Models (GANs)** | ████████░░ Advanced | Image-to-image translation & sketch translation with CycleGAN |
-| **Vision-Language Models** | ████████░░ Advanced | VLM fine-tuning with QLoRA for document-to-Markdown generation |
-| **Computer Vision** | ███████░░░ Proficient | Image processing, feature extraction, model training & evaluation |
-| **Big Data / ML Pipelines** | ████████░░ Advanced | Distributed data processing with Hadoop & Apache Spark |
-| **Model Optimization** | ███████░░░ Proficient | Parameter-efficient fine-tuning (QLoRA), quantization & inference tuning |
-| **Data Engineering** | ████████░░ Advanced | ETL pipelines, large-scale ingestion, containerized workflows |
+| **Generative Adversarial Networks** | ████████░░ Advanced | CycleGAN, Pix2Pix, DCGAN & WGAN-GP — translation, colorization, mode-collapse mitigation |
+| **Diffusion Models** | ███████░░░ Proficient | DDPM built from scratch with custom U-Net for high-resolution generation |
+| **Vision-Language Models** | ████████░░ Advanced | Qwen2-VL-2B fine-tuning via QLoRA for document-to-Markdown generation |
+| **NLP & Transformers** | ████████░░ Advanced | BERT, GPT-2, T5/BART fine-tuning; Transformers & seq2seq built from scratch |
+| **Bayesian Deep Learning** | ███████░░░ Proficient | Uncertainty quantification for cardiac signal processing (ECG → EGM) |
+| **Cloud & Distributed Storage** | ████████░░ Advanced | Ceph erasure coding (RAID 6), Sensu/Prometheus/Grafana observability |
+| **Big Data Engineering** | ████████░░ Advanced | Hadoop HDFS, Apache Spark, MapReduce on multi-node clusters |
+| **Systems & Virtualization** | ███████░░░ Proficient | Custom Linux kernel builds, KVM/QEMU paravirtualization & VirtIO tuning |
 
 ---
 
@@ -91,62 +104,142 @@ I'm **Fahad**, a software engineer who builds reliable, production-grade systems
 <div align="center"><h2>🚀 Featured Projects</h2></div>
 
 <details>
-<summary><b>🧬 CycleGAN — Sketch Translation</b></summary>
+<summary><b>🫀 CardioBayes-E2E — Bayesian Deep Learning for ECG → EGM (Final Year Project)</b></summary>
 
 <br/>
 
-Unpaired image-to-image translation system that converts sketches into realistic renderings using a CycleGAN architecture with cycle-consistency loss.
+Research on Bayesian Deep Learning for uncertainty quantification in cardiac signal processing, mapping non-invasive ECG to invasive EGM across the ill-posed inverse problem of electrocardiography.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, OpenCV, Jupyter |
-| **Scale** | Trained on paired/unpaired image domains across `[N]` samples |
-| **Performance** | `[e.g., FID / cycle-consistency loss]` on held-out validation set |
-| **Security** | Reproducible, sandboxed training environment |
-| **Impact** | Demonstrates high-fidelity sketch-to-image synthesis |
+| **Stack** | Python, PyTorch, Bayesian Deep Learning |
+| **Scale** | Surface-to-internal cardiac potential mapping (ECG ↔ EGM) |
+| **Performance** | Probabilistic outputs with calibrated uncertainty estimates |
+| **Security** | Reproducible, validation-focused medical research pipeline |
+| **Impact** | Reliable uncertainty quantification for clinical decision support |
+| **Repository** | Final Year Project — available on request |
+
+Demonstrates how Bayesian methods (e.g., Bayesian RNNs and generative models) provide a more dependable framework than deterministic models for this complex inverse mapping.
+
+</details>
+
+<details>
+<summary><b>🎨 CycleGAN — Unpaired Sketch ↔ Photo Translation</b></summary>
+
+<br/>
+
+An unpaired image-to-image translation system for bidirectional Sketch↔Photo domain adaptation without paired training data.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, PyTorch, ResNet Generators, PatchGAN Discriminators |
+| **Scale** | Trained on TU-Berlin & Sketchy datasets, Mixed Precision on dual T4 GPUs |
+| **Performance** | Cycle SSIM 0.94 / 0.99 · PSNR 27.60 / 29.44 dB |
+| **Security** | Reproducible, GPU-accelerated training pipeline |
+| **Impact** | High-fidelity bidirectional translation preserving structure |
 | **Repository** | [CycleGan](https://github.com/fahadcs321/CycleGan) |
 
-Implements paired generators and discriminators with cycle-consistency and identity losses to enforce structural coherence between domains, producing stable translations without requiring aligned training pairs.
+Two ResNet-based generators and two PatchGAN discriminators trained with adversarial, cycle-consistency, and identity losses.
 
 </details>
 
 <details>
-<summary><b>☁️ Distributed Cloud Storage — RAID 6 Fault Tolerance</b></summary>
+<summary><b>📄 VLM-s — Vision-Language Model Fine-Tuning via QLoRA</b></summary>
 
 <br/>
 
-A distributed cloud storage system engineered for resilience, using RAID 6 to survive multiple simultaneous disk failures without data loss.
+Fine-tunes Qwen2-VL-2B-Instruct with QLoRA (4-bit quantization + LoRA adapters) to convert document images into structured Markdown.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | Shell, Linux, Distributed Storage, RAID 6 |
-| **Scale** | Multi-node storage cluster with striped & parity-protected blocks |
-| **Performance** | Sustained throughput with `[e.g., N]` concurrent operations |
-| **Security** | Dual-parity redundancy tolerating up to 2 disk failures |
-| **Impact** | High-availability storage with strong durability guarantees |
-| **Repository** | [Distributed-Cloud-Storage](https://github.com/fahadcs321/Distributed-Cloud-Storage) |
-
-Distributes data with dual-parity encoding so the system continues operating through concurrent disk failures, reconstructing lost blocks on the fly to maintain integrity and uptime.
-
-</details>
-
-<details>
-<summary><b>📄 VLM-s — Vision Language Model Fine-Tuning (QLoRA)</b></summary>
-
-<br/>
-
-Fine-tunes a Vision-Language Model with QLoRA to convert document images into structured Markdown, enabling automated document understanding.
-
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Python, PyTorch, Transformers, QLoRA, Jupyter |
-| **Scale** | Parameter-efficient tuning over `[N]` document samples |
-| **Performance** | `[e.g., accuracy / edit-distance]` on document-to-Markdown task |
-| **Security** | Quantized adapters keep base weights frozen & reproducible |
-| **Impact** | Automates document-to-Markdown conversion at low compute cost |
+| **Stack** | Python, PyTorch, Hugging Face, PEFT, Gradio |
+| **Scale** | Nougat dataset preprocessed into ChatML image-instruction-markdown triples |
+| **Performance** | Gradient accumulation + parameter-efficient adapter training (base weights frozen) |
+| **Security** | Quantized adapters keep base model frozen & reproducible |
+| **Impact** | Real-time document-to-Markdown conversion via deployed Gradio app |
 | **Repository** | [VLM-s](https://github.com/fahadcs321/VLM-s) |
 
-Uses 4-bit quantization with low-rank adapters to fine-tune a large multimodal model on consumer-grade hardware, mapping document layouts to clean, structured Markdown output.
+Evaluated through qualitative Markdown generation comparisons and deployed as a Gradio application supporting real-time uploads.
+
+</details>
+
+<details>
+<summary><b>🌫️ DDPM — Denoising Diffusion Model for High-Resolution Generation</b></summary>
+
+<br/>
+
+A Denoising Diffusion Probabilistic Model implemented from scratch in base PyTorch.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, PyTorch, Custom U-Net |
+| **Scale** | U-Net with residual blocks, timestep embeddings, channels 64→128→256 |
+| **Performance** | MSE loss against predicted noise; evaluated via PSNR & SSIM |
+| **Security** | Reproducible from-scratch implementation |
+| **Impact** | Unconditional generation + reconstruction with visualized denoising |
+| **Repository** | Academic — available on request |
+
+Deployed via an interactive Gradio app displaying intermediate denoising steps.
+
+</details>
+
+<details>
+<summary><b>☁️ Distributed Cloud Storage — Ceph RAID 6 + Full Observability</b></summary>
+
+<br/>
+
+A highly resilient distributed cloud storage system with RAID 6–equivalent protection and an end-to-end monitoring stack.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Ceph, Sensu, Prometheus, Grafana, Linux, Bash |
+| **Scale** | Multi-node cluster (5–10 VMs) with Ceph OSDs & MONs |
+| **Performance** | Erasure-coded striping (k data + m=2 parity); real-time IOPS/latency dashboards |
+| **Security** | RAID 6 dual-parity tolerating up to 2 simultaneous disk/node failures |
+| **Impact** | Production-grade availability with proactive anomaly detection & alerting |
+| **Repository** | [Distributed-Cloud-Storage](https://github.com/fahadcs321/Distributed-Cloud-Storage) |
+
+Ceph erasure coding provides RAID 6–equivalent fault tolerance; Sensu agents collect node telemetry into Prometheus, with Grafana dashboards visualizing capacity, throughput, rebuild progress, and failure events.
+
+</details>
+
+<details>
+<summary><b>🗄️ Pokec Social Network Analysis — Hadoop & MapReduce</b></summary>
+
+<br/>
+
+Large-scale analysis and distributed ML on the Pokec social-network dataset (1.6M+ users, 30M+ edges) using HDFS and the MapReduce paradigm.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Python, Hadoop, HDFS, MapReduce |
+| **Scale** | 3-node cluster (1 master + 2 slaves); 1,632,803 nodes / 30,622,564 edges |
+| **Performance** | Distributed feature engineering, K-Means clustering & cosine similarity |
+| **Security** | Anonymized dataset with reproducible cluster configuration |
+| **Impact** | Distributed Linear Regression vs Random Forest for profile-completion prediction |
+| **Repository** | FAST CS-4075 — available on request |
+
+Covers MapReduce data exploration, age-based segmentation, similarity search, and distributed model training/evaluation with comparative metric analysis.
+
+</details>
+
+<details>
+<summary><b>🐧 Custom Linux Kernel Optimization for KVM</b></summary>
+
+<br/>
+
+A from-source Linux kernel customized and compiled specifically for guest execution under KVM.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Linux Kernel, KVM, QEMU, libvirt, sysbench, fio, perf |
+| **Scale** | Stripped-down guest kernel with VirtIO block/network/balloon drivers |
+| **Performance** | Benchmarked boot time, CPU, memory & disk I/O vs stock kernel |
+| **Security** | Reduced attack surface via removal of redundant hardware drivers |
+| **Impact** | Lower memory footprint and fewer VM-exit traps for efficient guests |
+| **Repository** | FAST CS-4075 — available on request |
+
+Enables paravirtualization options (CONFIG_KVM_GUEST, CONFIG_PARAVIRT, CONFIG_VIRTIO) and analyzes how hardware virtualization (VT-x/AMD-V) and OS design choices affect guest performance.
 
 </details>
 
@@ -155,48 +248,66 @@ Uses 4-bit quantization with low-rank adapters to fine-tune a large multimodal m
 
 <br/>
 
-A full-scale Big Data pipeline analyzing weather patterns across 8 major cities of Pakistan, built on Hadoop, Apache Spark, and Docker.
+A full-scale Big Data pipeline analyzing weather patterns across 8 major cities of Pakistan.
 
 | Attribute | Detail |
 | :--- | :--- |
 | **Stack** | Python, Hadoop, Apache Spark, Docker |
 | **Scale** | Multi-city dataset spanning 8 major cities of Pakistan |
-| **Performance** | Distributed processing of `[N]` records via Spark |
+| **Performance** | Distributed Spark processing of large weather datasets |
 | **Security** | Isolated, containerized & reproducible Docker environment |
 | **Impact** | Surfaces actionable climate & weather-trend insights |
 | **Repository** | [Weather-Forecast-Data-Analysis](https://github.com/fahadcs321/Weather-Forecast-Data-Analysis) |
 
-Ingests and processes large weather datasets through a distributed Hadoop/Spark pipeline, fully containerized with Docker for portability and reproducible analytics across cities.
+Ingests and processes large weather datasets through a distributed Hadoop/Spark pipeline, fully containerized with Docker.
 
 </details>
 
----
-
-<!-- ===================== EXPERIENCE ===================== -->
-<div align="center"><h2>💼 Experience</h2></div>
-
-### `[Job Title]` — `[Company Name]`
-**`[Month Year] – [Month Year / Present]`**
-
-`[One-line professional summary of your role and the value you delivered.]`
-
-- `[Scope bullet: a system you built, owned, or scaled]`
-- `[Scope bullet: a measurable outcome or optimization]`
-- `[Scope bullet: cross-functional or product impact]`
-
-`Skills:` ![](https://img.shields.io/badge/Python-7C3AED?style=flat-square) ![](https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square) ![](https://img.shields.io/badge/Docker-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/Spark-6366F1?style=flat-square)
-
 <br/>
 
-### `[Job Title]` — `[Company Name]`
-**`[Month Year] – [Month Year]`**
+<div align="center"><b>📚 Additional Projects</b></div>
 
-`[One-line professional summary of your role and the value you delivered.]`
+| Project | Domain | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Cloud-Hosted Linux VM** | Cloud Usage | AWS / Azure / GCP / Oracle | VM provisioning, SSH keys, firewall rules, RDP, HTTP hosting |
+| **Masked Autoencoders (MAE)** | Self-Supervised CV | PyTorch | ViT-Base encoder (~86M) + ViT-Small decoder, 75% patch masking |
+| **DCGAN vs WGAN-GP** | GANs | PyTorch | Mode-collapse study on Anime Faces; FID evaluation, gradient penalty (λ=10) |
+| **Pix2Pix Colorization** | Paired Image Translation | PyTorch | U-Net generator + PatchGAN; CUHK Face Sketch + Anime datasets |
+| **RAG for Clinical Notes (DiReCT)** | Clinical NLP | Python, Streamlit | RAG over MIMIC-IV-Ext; retrieval + generation metrics; Medium write-up |
+| **Transformer Fine-Tuning** | NLP | Hugging Face | BERT (sentiment), GPT-2 (code-gen), T5/BART (summarization) |
+| **Urdu Conversation Chatbot** | NLP | PyTorch | Transformer encoder-decoder from scratch; BLEU, ROUGE-L, perplexity |
+| **Urdu → Roman Urdu Translation** | NMT | PyTorch | BiLSTM seq2seq for low-resource transliteration; BLEU, CER |
+| **Metro-Defense** | Game Dev | Unreal Engine | Mobs-shooter set in a Paris-metro-inspired station (Epitech, Paris) |
+| **Mini Operating System** | Systems | C, Ubuntu | Threading & process synchronization |
+| **Hospital Management System** | Full Stack | C#, Oracle 11g, .NET | Patient records, scheduling, analytics with WinForms GUI |
 
-- `[Scope bullet]`
-- `[Scope bullet]`
+---
 
-`Skills:` ![](https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Full%20Stack-4F46E5?style=flat-square) ![](https://img.shields.io/badge/Cloud-8B5CF6?style=flat-square)
+<!-- ===================== EXPERIENCE / TRAINING ===================== -->
+<div align="center"><h2>💼 Experience & International Training</h2></div>
+
+### Game Development Trainee — `Epitech, Paris, France`
+**Winter School Program · 2021 · 3 Weeks (6 ECTS Credits)**
+
+Selected for an international winter school in game development at Epitech Paris, delivering a complete shooter game in three weeks.
+
+- Built **Metro-Defense**, a mobs-shooter set in a Paris-metro-inspired station
+- Implemented characters, weapons, ammunition, and health systems using Unreal Engine Blueprints
+- Produced animations and cinematic video sequences end-to-end
+
+`Skills:` ![](https://img.shields.io/badge/Unreal%20Engine-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Blueprint-4F46E5?style=flat-square) ![](https://img.shields.io/badge/Game%20Design-8B5CF6?style=flat-square)
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+<div align="center"><h2>🎓 Education</h2></div>
+
+| Institution | Qualification | Period |
+| :--- | :--- | :--- |
+| **National University of Computer & Emerging Sciences (FAST-NUCES)** | B.S. Computer Science | 2022 – Present |
+| **Punjab College of Science (Khanewal)** | HSSC — Pre-Engineering | 2020 – 2022 |
+
+> Relevant coursework: Deep Learning for Perception, Natural Language Processing, Artificial Intelligence, Parallel & Distributed Computing, Cloud Computing, Operating Systems, Database Systems, Design & Analysis of Algorithms, Generative AI.
 
 ---
 
@@ -207,10 +318,8 @@ Ingests and processes large weather datasets through a distributed Hadoop/Spark 
 
 | Recognition | Details |
 | :--- | :--- |
-| 🥇 `[Award / Hackathon / Competition]` | `[Placement, year, and what it was for]` |
-| 🎓 `[Academic Honor / Scholarship]` | `[Details]` |
-| 📜 `[Publication / Research]` | `[Title or venue]` |
-| 🌟 `[Open Source / Community]` | `[Contribution or recognition]` |
+| 🎮 **Epitech Winter School Certificate** | Completed 3-week Video Game Development program in Paris, France — earned 6 ECTS credits (2021) |
+| 🎓 **Merit Scholarship** | Awarded by Punjab College of Science (PGC, Khanewal) for outstanding matriculation performance |
 
 </div>
 
@@ -221,36 +330,9 @@ Ingests and processes large weather datasets through a distributed Hadoop/Spark 
 
 <div align="center">
 
-**Amazon Web Services**
+**Epitech — Paris, France**
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1b27"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20%5BCourse%20Name%5D-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20%5BCert%20Name%5D-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1b27"/>
-
-</div>
-
----
-
-<!-- ===================== CODING PROFILES ===================== -->
-<div align="center"><h2>⚔️ Coding Profiles</h2></div>
-
-<div align="center">
-
-<a href="https://leetcode.com/[handle]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1b27"/></a>
-<a href="https://geeksforgeeks.org/user/[handle]"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://hackerrank.com/[handle]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://codechef.com/users/[handle]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27"/></a>
+<img src="https://img.shields.io/badge/Video%20Game%20Development%20Winter%20School%20(6%20ECTS)-4F46E5?style=for-the-badge&logo=epicgames&logoColor=white&labelColor=1a1b27"/>
 
 </div>
 
@@ -309,11 +391,11 @@ Ingests and processes large weather datasets through a distributed Hadoop/Spark 
 <div align="center"><h2>🎯 Current Focus</h2></div>
 
 ```yaml
-fahad:
-  learning:    ["Advanced LLM fine-tuning", "Kubernetes at scale", "MLOps"]
-  building:    ["Vision-language pipelines", "Fault-tolerant distributed systems"]
-  exploring:   ["Generative AI", "Big Data engineering", "Cloud-native architecture"]
-  open_to:     ["Software Engineering", "AI/ML roles", "Full Stack", "Research"]
+muhammad_fahad:
+  learning:    ["Generative AI", "Cloud-Native Architecture", "Kubernetes + Rook"]
+  building:    ["Vision-Language pipelines", "Fault-tolerant distributed storage"]
+  exploring:   ["Multimodal learning", "LLMs from scratch", "Kernel & virtualization tuning"]
+  open_to:     ["AI/ML Engineering", "Cloud / Distributed Systems", "Research"]
 ```
 
 ---
@@ -323,10 +405,9 @@ fahad:
 
 <div align="center">
 
-<a href="mailto:[your.email@gmail.com]"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://linkedin.com/in/[your-handle]"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
+<a href="mailto:fahad.muhammad9793@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-89a1b0358/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://github.com/fahadcs321"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://[your-portfolio-url]"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
 
 </div>
 
@@ -335,7 +416,7 @@ fahad:
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<i>"Engineering systems that are reliable by design, intelligent by intent, and built to scale."</i>
+<i>"Tackling ambiguous, high-complexity problems with analytical rigor — building AI and infrastructure that is reliable by design and intelligent by intent."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
