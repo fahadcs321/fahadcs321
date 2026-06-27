@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Muhammad%20Fahad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%E2%80%A2%20Cloud%20and%20Distributed%20Systems%20Engineer&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Fahad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%E2%80%A2%20Cloud%20and%20Distributed%20Systems%20Engineer&descAlignY=54&descAlignX=50&descSize=20" width="100%"/>
 
 <a href="https://github.com/fahadcs321">
  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Generative+AI+%26+Deep+Learning+Engineer;Natural+Language+Processing+Engineer;Cloud+%26+Distributed+Systems+Engineer;Big+Data+%26+Computer+Vision+Engineer" alt="Typing SVG" />
