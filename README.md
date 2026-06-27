@@ -431,6 +431,6 @@ muhammad_fahad:
 
 <i>"Tackling ambiguous, high-complexity problems with analytical rigor — building AI and infrastructure that is reliable by design and intelligent by intent."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
 </div>
