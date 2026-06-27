@@ -9,21 +9,34 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.S.%20Computer%20Science-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/FAST%20(NUCES)-4F46E5?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27"/>
+<!-- Education -->
+<img src="https://img.shields.io/badge/B.S.%20Computer%20Science-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/FAST%20(NUCES)-203A43?style=for-the-badge&logo=academia&logoColor=white&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/Pakistan-0F2027?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=111827"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/muhammad-fahad-89a1b0358/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
-<a href="mailto:fahad.muhammad9793@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://github.com/fahadcs321"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
+<a href="https://www.linkedin.com/in/muhammad-fahad-89a1b0358/">
+<img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+</a>
+
+<a href="mailto:fahad.muhammad9793@gmail.com">
+<img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+</a>
+
+<a href="https://github.com/fahadcs321">
+<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fahadcs321&label=Profile%20Views&color=8B5CF6&style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/github/followers/fahadcs321?label=Followers&style=flat-square&color=A855F7&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Stars-%E2%AD%90-7C3AED?style=flat-square&labelColor=1a1b27"/>
+<img src="https://komarev.com/ghpvc/?username=fahadcs321&label=Profile%20Views&color=2C5364&style=flat-square&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/followers/fahadcs321?label=Followers&style=flat-square&color=203A43&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/Stars-%E2%AD%90-0F2027?style=flat-square&labelColor=111827"/>
 
 </div>
 
